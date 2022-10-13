@@ -6,7 +6,7 @@
 /*   By: ohearn <ohearn@student.42.fr>                +#+                     */
 /*                                                   +#+                      */
 /*   Created: 2022/02/11 20:49:31 by ohearn        #+#    #+#                 */
-/*   Updated: 2022/10/13 14:34:16 by ohearn        ########   odam.nl         */
+/*   Updated: 2022/10/13 14:45:23 by ohearn        ########   odam.nl         */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -32,7 +32,6 @@ int			fc_print_str(char *string);
 int			fc_putchar(char c);
 int			fc_putnbr(int n);
 int			fc_putstr(char *str);
-
 
 /*Files used in base libft, bonus included*/
 
